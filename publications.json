@@ -1,0 +1,63 @@
+{
+  "scholar_profile": "https://scholar.google.com/citations?user=kByASicAAAAJ&hl=es",
+  "publications": [
+    {
+      "year": 2023,
+      "authors": "Quinteros, L., Garcia-Macias, E., Martinez-Paneda, E.",
+      "title": "Electromechanical phase-field fracture modelling of piezoresistive CNT-based composites",
+      "journal": "Computer Methods in Applied Mechanics and Engineering",
+      "volume": 407,
+      "pages": "115941",
+      "citations": 29,
+      "doi": "10.1016/j.cma.2023.115941",
+      "scholar_link": "https://scholar.google.com/citations?user=kByASicAAAAJ&hl=es"
+    },
+    {
+      "year": 2022,
+      "authors": "Quinteros, L., Garcia-Macias, E., Martinez-Paneda, E.",
+      "title": "Micromechanics-based phase field fracture modelling of CNT composites",
+      "journal": "Composites Part B: Engineering",
+      "volume": 236,
+      "pages": "109788",
+      "citations": 45,
+      "doi": "10.1016/j.compositesb.2022.109788",
+      "scholar_link": "https://scholar.google.com/citations?user=kByASicAAAAJ&hl=es"
+    },
+    {
+      "year": 2022,
+      "authors": "Meruane, V., Yanez, S.J., Quinteros, L., Saavedra Flores, E.I.",
+      "title": "Damage detection in steel–concrete composite structures by impact hammer modal testing and experimental validation",
+      "journal": "Sensors",
+      "volume": 22,
+      "issue": 10,
+      "pages": "3874",
+      "citations": 24,
+      "doi": "10.3390/s22103874",
+      "scholar_link": "https://scholar.google.com/citations?user=kByASicAAAAJ&hl=es"
+    },
+    {
+      "year": 2021,
+      "authors": "Quinteros, L., Meruane, V., Lenz Cardoso, E., Ruiz, R.O.",
+      "title": "Phononic bandgap optimization in sandwich panels using cellular truss cores",
+      "journal": "Materials",
+      "volume": 14,
+      "issue": 18,
+      "pages": "5236",
+      "citations": 19,
+      "doi": "10.3390/ma14185236",
+      "scholar_link": "https://scholar.google.com/citations?user=kByASicAAAAJ&hl=es"
+    },
+    {
+      "year": 2021,
+      "authors": "Quinteros, L., Meruane, V., Cardoso, E.L.",
+      "title": "Phononic band gap optimization in truss-like cellular structures using smooth P-norm approximations",
+      "journal": "Structural and Multidisciplinary Optimization",
+      "volume": 64,
+      "issue": 1,
+      "pages": "113-124",
+      "citations": 30,
+      "doi": "10.1007/s00158-021-02881-8",
+      "scholar_link": "https://scholar.google.com/citations?user=kByASicAAAAJ&hl=es"
+    }
+  ]
+}
