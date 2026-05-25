@@ -61,13 +61,29 @@ body {
 }
 
 .brand img {
-  height: 40px;
+  height: 28px;
   width: auto;
 }
 
 .brand-text {
-  font-size: 0.9rem;
-  color: var(--gray-med);
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  font-size: 0.75rem;
+}
+
+.brand-text strong {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--text);
+  font-weight: 700;
+}
+
+.brand-text small {
+  display: block;
+  font-size: 0.65rem;
+  color: var(--gray-light);
+  font-weight: 400;
 }
 
 nav {
